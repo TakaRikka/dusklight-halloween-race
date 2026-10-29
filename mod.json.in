@@ -1,7 +1,7 @@
 {
-  "id": "com.example.my_mod",
-  "name": "My Mod",
+  "id": "dev.taka.halloween_race",
+  "name": "Halloween Race",
   "version": "@PROJECT_VERSION@",
-  "author": "You",
-  "description": "An example Dusklight mod"
+  "author": "Taka",
+  "description": "Port of the Halloween Race mod"
 }
